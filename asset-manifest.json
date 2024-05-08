@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mat-project/social-media-app.git/static/css/main.4ab54d94.css",
+    "main.js": "/Mat-project/social-media-app.git/static/js/main.810ee4fa.js",
+    "index.html": "/Mat-project/social-media-app.git/index.html",
+    "main.4ab54d94.css.map": "/Mat-project/social-media-app.git/static/css/main.4ab54d94.css.map",
+    "main.810ee4fa.js.map": "/Mat-project/social-media-app.git/static/js/main.810ee4fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab54d94.css",
+    "static/js/main.810ee4fa.js"
+  ]
+}
