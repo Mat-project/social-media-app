@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "dinesh",
+      "dateTime": "sep/21/2003",
+      "body": "birthday"
+    },
+    {
+      "id": 2,
+      "title": "naveen",
+      "dateTime": "sep/21/2004",
+      "body": "birthday"
+    },
+    {
+      "id": 4,
+      "title": "new year",
+      "dateTime": "January 01 2024 12:12:40 PM",
+      "body": "it's new year 2024\n"
+    }
+  ]
+}
